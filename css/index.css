@@ -1,0 +1,19 @@
+.webpage-collage-container .max-width-500px {
+  max-width: 500px;
+  width: 100%;
+}
+.webpage-collage-container .max-width-830px {
+  max-width: 830px;
+  width: 100%;
+}
+
+.blog-links-section h2,
+.blog-links-section h5 {
+  text-shadow: 0 0 0.625rem #000;
+}
+.blog-links-section h5 {
+  color: #fff;
+  font-size: 1.25rem;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 600;
+}
