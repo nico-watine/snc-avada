@@ -9,6 +9,19 @@
   ],
   "creatorBuild" : "34418",
   "files" : {
+    "\/_ignores\/codekit-icon.png" : {
+      "ft" : 32768,
+      "iS" : 7056,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/codekit-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/_ignores\/snc-avada.sublime-project" : {
       "cB" : 0,
       "ft" : 8192,
@@ -23,14 +36,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/_ignores\/snc-avada.sublime-workspace",
-      "oF" : 0
-    },
-    "\/.editorconfig" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/.editorconfig",
       "oF" : 0
     },
     "\/.gitignore" : {
@@ -80,6 +85,25 @@
       "oA" : 0,
       "oAP" : "\/html\/index\/project-miriam-rodriguez.html",
       "oF" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     },
     "\/scss\/_var.scss" : {
       "aP" : 0,
@@ -287,8 +311,8 @@
     "creationDate" : 721155688.55937397,
     "displayValue" : "snc-avada",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "brackets-peach",
-    "iconImageWasSetByUser" : 0
+    "iconImageName" : "\/_ignores\/codekit-icon.png",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
