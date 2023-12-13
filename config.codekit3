@@ -322,6 +322,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/theme-functions\/functions.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/theme-functions\/functions.php",
+      "oF" : 0
     }
   },
   "hooks" : [
