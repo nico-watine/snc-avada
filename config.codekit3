@@ -323,6 +323,14 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/theme-functions\/controlled-by-avada.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/theme-functions\/controlled-by-avada.php",
+      "oF" : 0
+    },
     "\/theme-functions\/functions.php" : {
       "cB" : 0,
       "ft" : 8192,
