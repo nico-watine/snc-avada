@@ -48,4 +48,4 @@ remove_action( 'wp_head', 'wp_resource_hints', 2, 99 );
 remove_action('rest_api_init', 'wp_oembed_register_route');
 remove_filter('oembed_dataparse', 'wp_filter_oembed_result', 10);
 remove_filter('pre_oembed_result', 'wp_filter_pre_oembed_result', 10);
-add_filter('embed_oembed_discover', '__return_false');
+add_filter('embed_oembed_discove
