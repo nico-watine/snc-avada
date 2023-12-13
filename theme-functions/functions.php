@@ -6,7 +6,7 @@ function theme_enqueue_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles', 20 );
 
-// Avada funtion
+// Avada funtion - add Language ability
 function avada_lang_setup() {
 	$lang = get_stylesheet_directory() . '/languages';
 	load_child_theme_textdomain( 'Avada', $lang );
