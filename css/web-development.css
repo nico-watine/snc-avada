@@ -1,0 +1,20 @@
+.max-width-600px {
+  max-width: 600px;
+  width: 100%;
+}
+
+.max-width-460px {
+  max-width: 460px;
+  width: 100%;
+}
+
+.blog-links-section h2,
+.blog-links-section h5 {
+  text-shadow: 0 0 0.625rem #000;
+}
+.blog-links-section h5 {
+  color: #fff;
+  font-size: 1.25rem;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 600;
+}
